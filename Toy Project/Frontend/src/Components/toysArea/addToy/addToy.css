@@ -1,0 +1,13 @@
+.AddVideo > form {
+    width: 300px;
+    margin:0px auto;
+    text-align: center;
+}
+
+.AddVideo input, .AddVideo button, .AddVideo select, .AddVideo label {
+width: 100%;
+box-sizing: border-box;
+font-size: x-large;
+margin-bottom: 30px;
+}
+

@@ -1,0 +1,27 @@
+.toysList > table {
+	margin:auto;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.toysList > table, .toysList > th, .toysList > td {
+border: 1px solid blue;
+
+}
+
+.text_center{
+    text-align: center;
+}
+.category_list{
+   display:flex;
+   text-align: center;
+   justify-content: center;
+  flex-direction: row;
+}
+.dropdown_list{
+    height: 20px;
+    margin: 20px 0px 0px 10px;
+}
+.col_list{
+    margin: 0px 0px 0px 15px;
+}
